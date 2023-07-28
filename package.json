@@ -24,7 +24,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/core": "9.1.9",
+    "@angular-devkit/core": "9.1.15",
     "@angular/animations": "^9.1.11",
     "@angular/cdk": "8.2.3",
     "@angular/common": "^9.1.11",
