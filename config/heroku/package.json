@@ -7,6 +7,6 @@
     "start": "lite-server --config=./bs-config.js"
   },
   "dependencies": {
-    "lite-server": "2.2.2"
+    "lite-server": "2.6.0"
   }
 }
